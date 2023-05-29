@@ -1,2 +1,2 @@
-# Important-Problems
-This is a repository for questions that are important for interviews and other coding aptitude exams.
+# Featured Problems
+This GitHub repository features a collection of carefully chosen problems sourced from LeetCode. Each problem is accompanied by a link to its respective LeetCode page, providing convenient access for further exploration. Engaging with these well-curated challenges is highly beneficial for programmers, enabling them to expand their knowledge across diverse topics. By practicing these problems, individuals can enhance their programming skills and gain valuable insights into different aspects of the field. This repository serves as a valuable resource, equipping programmers with the expertise needed to excel in software development and fostering continuous growth and proficiency.
